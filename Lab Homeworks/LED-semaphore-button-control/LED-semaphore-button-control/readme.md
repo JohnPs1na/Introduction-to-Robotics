@@ -2,7 +2,7 @@
 
 ### Semaphore simulator, button control
 
-As a pedestrian I want to cross the road, but it is too annoying to wait for the green light to turn on
+As a pedestrian I want to cross the road, but it is too annoying to wait for the green light to turn on \n
 Here is the solution to this problem
 A button which when pressed, signals that there are people wishing to cross the road 
 After it is pressed within 5 seconds, the yellow led turns on, and after another 3 seconds you can peacefully get to the other side
