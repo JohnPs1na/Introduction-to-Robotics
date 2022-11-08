@@ -15,6 +15,8 @@ You can now write ANYTHING on the seven segment display just by Using a simple j
   - from here you either move your joystick up (on) or down (off) to change intensities
 3. if you want to do another combination, simply long press the joystick button
 
+![tema3](https://user-images.githubusercontent.com/79158638/200691625-4330ba72-afdd-4141-8153-bd9378871974.jpg)
+
 
 here you have a video showcasing the funcitonality 
 https://www.youtube.com/watch?v=ifrs7oJP4fg&ab_channel=DenisHadirca
